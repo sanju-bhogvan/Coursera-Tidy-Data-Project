@@ -10,7 +10,7 @@
     <meta http-equiv="Content-Language" content="en">
     
     
-    <title>coursera-tidy-data/README.md at master · bpoweski/coursera-tidy-data</title>
+    <title>coursera-tidy-data/CodeBook.md at master · bpoweski/coursera-tidy-data</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -34,7 +34,7 @@
     <meta name="selected-link" value="repo_source" data-pjax-transient>
       <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="47DED0BB:1D6D:8BA3886:54C1E950" name="octolytics-dimension-request_id" /><meta content="8109116" name="octolytics-actor-id" /><meta content="sanju-bhogvan" name="octolytics-actor-login" /><meta content="1f2ed804cbd4141842a4114b01b1745ff55876d662013050bfe712625fa0edcf" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="47DED0BB:1675:A15FC02:54C1E928" name="octolytics-dimension-request_id" /><meta content="8109116" name="octolytics-actor-id" /><meta content="sanju-bhogvan" name="octolytics-actor-login" /><meta content="1f2ed804cbd4141842a4114b01b1745ff55876d662013050bfe712625fa0edcf" name="octolytics-actor-hash" />
     
     <meta content="Rails, view, blob#show" name="analytics-event" />
 
@@ -44,7 +44,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="omafDIXf6Vy+i04ki1kEQmta+mOF+QpWl4nsgIVES6Ofwr6ymANfqajQVUhbGKlVfpAgZtkIHnBYLAbXPUHRHw==" name="csrf-token" />
+<meta content="xny09Xujma41zTiao3DSWWK1uJtkO49XB2M0Zm2DUZKvr+PewCZqQFIzOTwz4/rJ5u2JpwbtZh3raIE0QROHew==" name="csrf-token" />
 
     <link href="https://assets-cdn.github.com/assets/github-3b24b9ac37e087c9b13ad8d84820250a93a4fd610eb6e7535e8b12d0cb87836d.css" media="all" rel="stylesheet" type="text/css" />
     <link href="https://assets-cdn.github.com/assets/github2-0adb277c3e0f5609666d7512f78f267969a5308b562c1ff52296b9f0502ae547.css" media="all" rel="stylesheet" type="text/css" />
@@ -164,7 +164,7 @@
   </li>
 
   <li class="header-nav-item">
-    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1sK33PeSnJkHvdpBH93J3teWMEjFhs91S9GWRigSJ4jARQ9ZbR0+JCWQQPyIU3t5moDGk/vR5uChV6HhsstusA==" /></div>
+    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="PFN0ymqITeSBjqz4tH1AnPA9IkGMNtWUZx5ZV3QcXw0PUFezATTPLKInScN0OtaUBnLlvI9rxMe706C1h1BGYg==" /></div>
       <button class="header-nav-link sign-out-button tooltipped tooltipped-s" aria-label="Sign out" data-ga-click="Header, sign out, icon:logout">
         <span class="octicon octicon-sign-out"></span>
       </button>
@@ -221,7 +221,7 @@ Email verification helps our support team verify ownership if you lose account a
 <ul class="pagehead-actions">
 
     <li class="subscription">
-      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="lZXlsY5CSgd1uno+kJrrU9ka5ZUiPwSKo+JHxifr/5p/eXhaA7/hr4Ltq8xJbuJCtYl1MBCMJ4YtfzoiEqiMWg==" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="19219512" />
+      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="YoVqLATmSt5wpTmLycdcPPMchv1sw6OOUmvSmhHfWukM0NM38Pb8VdItb1M9M4kYTpBWw3pVZBdP0NBxYg63kw==" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="19219512" />
 
     <div class="select-menu js-menu-container js-select-menu">
       <a class="social-count js-social-count" href="/bpoweski/coursera-tidy-data/watchers">
@@ -296,7 +296,7 @@ Email verification helps our support team verify ownership if you lose account a
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <form accept-charset="UTF-8" action="/bpoweski/coursera-tidy-data/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="NkbjAAWFuVlrlG3YbYs3PFnyY1jtgE+i5BiIdsjrSmK6ItIuy/XK6ylHJyEqymlgOrQxRxQVHTu1aXhDtFiLVg==" /></div>
+    <form accept-charset="UTF-8" action="/bpoweski/coursera-tidy-data/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="PwOK9IuGJ5KoHUFemfvjEoFdFZe997k60UbToBGJwHaLS4igSblLMeFJSQ+81x1a7AnYKkxrf4fBjvDDCbRQDA==" /></div>
       <button
         class="minibutton with-count js-toggler-target star-button"
         aria-label="Unstar this repository" title="Unstar bpoweski/coursera-tidy-data">
@@ -307,7 +307,7 @@ Email verification helps our support team verify ownership if you lose account a
           0
         </a>
 </form>
-    <form accept-charset="UTF-8" action="/bpoweski/coursera-tidy-data/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="v86TQycprtoOYIu6S/boHlFc/UWPyinHTItDZ2hiuJfv1js4zAoG163B3JXeMSvNpY6Xh5Tum2rEAXLMnzcLYw==" /></div>
+    <form accept-charset="UTF-8" action="/bpoweski/coursera-tidy-data/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="GBGg31vhGoHdwWz94O9a9+Y5vzr+MMteOZHuVczlTvcH6lHbm1NwSGBEpqrOJS2exmpwamnJcPcv4LUE/75xAw==" /></div>
       <button
         class="minibutton with-count js-toggler-target star-button"
         aria-label="Star this repository" title="Star bpoweski/coursera-tidy-data">
@@ -474,9 +474,9 @@ Email verification helps our support team verify ownership if you lose account a
         <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
           
 
-<a href="/bpoweski/coursera-tidy-data/blob/142fe06ac8722571c66ea30ed55a5a929603d5fc/README.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/bpoweski/coursera-tidy-data/blob/142fe06ac8722571c66ea30ed55a5a929603d5fc/CodeBook.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:22a5a97101385112377f0abe9e8ee1c7 -->
+<!-- blob contrib key: blob_contributors:v21:2ba0c89c87c657411be055503f54dc7e -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -522,7 +522,7 @@ Email verification helps our support team verify ownership if you lose account a
 
             <div class="select-menu-item js-navigation-item selected">
               <span class="select-menu-item-icon octicon octicon-check"></span>
-              <a href="/bpoweski/coursera-tidy-data/blob/master/README.md"
+              <a href="/bpoweski/coursera-tidy-data/blob/master/CodeBook.md"
                  data-name="master"
                  data-skip-pjax="true"
                  rel="nofollow"
@@ -559,7 +559,7 @@ Email verification helps our support team verify ownership if you lose account a
   </div>
 
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/bpoweski/coursera-tidy-data" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">coursera-tidy-data</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/bpoweski/coursera-tidy-data" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">coursera-tidy-data</span></a></span></span><span class="separator">/</span><strong class="final-path">CodeBook.md</strong>
   </div>
 </div>
 
@@ -568,9 +568,9 @@ Email verification helps our support team verify ownership if you lose account a
     <div class="file-history-tease-header">
         <img alt="Ben Poweski" class="avatar" data-user="103650" height="24" src="https://avatars2.githubusercontent.com/u/103650?v=3&amp;s=48" width="24" />
         <span class="author"><a href="/bpoweski" rel="author">bpoweski</a></span>
-        <time datetime="2014-04-27T22:31:49Z" is="relative-time">Apr 27, 2014</time>
+        <time datetime="2014-04-27T22:30:08Z" is="relative-time">Apr 27, 2014</time>
         <div class="commit-title">
-            <a href="/bpoweski/coursera-tidy-data/commit/142fe06ac8722571c66ea30ed55a5a929603d5fc" class="message" data-pjax="true" title="Update README.md">Update README.md</a>
+            <a href="/bpoweski/coursera-tidy-data/commit/1f8d9feb571a6326d901ae95b129c2d930f1b795" class="message" data-pjax="true" title="Update CodeBook.md">Update CodeBook.md</a>
         </div>
     </div>
 
@@ -598,29 +598,29 @@ Email verification helps our support team verify ownership if you lose account a
   <div class="file">
     <div class="meta clearfix">
       <div class="info file-name">
-          <span>45 lines (35 sloc)</span>
+          <span>93 lines (83 sloc)</span>
           <span class="meta-divider"></span>
-        <span>1.282 kb</span>
+        <span>5.485 kb</span>
       </div>
       <div class="actions">
         <div class="button-group">
-          <a href="/bpoweski/coursera-tidy-data/raw/master/README.md" class="minibutton " id="raw-url">Raw</a>
-            <a href="/bpoweski/coursera-tidy-data/blame/master/README.md" class="minibutton js-update-url-with-hash">Blame</a>
-          <a href="/bpoweski/coursera-tidy-data/commits/master/README.md" class="minibutton " rel="nofollow">History</a>
+          <a href="/bpoweski/coursera-tidy-data/raw/master/CodeBook.md" class="minibutton " id="raw-url">Raw</a>
+            <a href="/bpoweski/coursera-tidy-data/blame/master/CodeBook.md" class="minibutton js-update-url-with-hash">Blame</a>
+          <a href="/bpoweski/coursera-tidy-data/commits/master/CodeBook.md" class="minibutton " rel="nofollow">History</a>
         </div><!-- /.button-group -->
 
           <a class="octicon-button tooltipped tooltipped-nw"
-             href="github-windows://openRepo/https://github.com/bpoweski/coursera-tidy-data?branch=master&amp;filepath=README.md" aria-label="Open this file in GitHub for Windows">
+             href="github-windows://openRepo/https://github.com/bpoweski/coursera-tidy-data?branch=master&amp;filepath=CodeBook.md" aria-label="Open this file in GitHub for Windows">
               <span class="octicon octicon-device-desktop"></span>
           </a>
 
               <a class="octicon-button tooltipped tooltipped-n js-update-url-with-hash"
                  aria-label="Clicking this button will fork this project so you can edit the file"
-                 href="/bpoweski/coursera-tidy-data/edit/master/README.md"
+                 href="/bpoweski/coursera-tidy-data/edit/master/CodeBook.md"
                  data-method="post" rel="nofollow"><span class="octicon octicon-pencil"></span></a>
 
             <a class="octicon-button danger tooltipped tooltipped-s"
-               href="/bpoweski/coursera-tidy-data/delete/master/README.md"
+               href="/bpoweski/coursera-tidy-data/delete/master/CodeBook.md"
                aria-label="Fork this project and delete file"
                data-method="post" data-test-id="delete-blob-file" rel="nofollow">
           <span class="octicon octicon-trashcan"></span>
@@ -630,52 +630,334 @@ Email verification helps our support team verify ownership if you lose account a
     
   <div id="readme" class="blob instapaper_body">
     <article class="markdown-body entry-content" itemprop="mainContentOfPage"><h2>
-<a id="user-content-getting-and-cleaning-data---project" class="anchor" href="#getting-and-cleaning-data---project" aria-hidden="true"><span class="octicon octicon-link"></span></a>Getting and Cleaning Data - Project</h2>
+<a id="user-content-code-book" class="anchor" href="#code-book" aria-hidden="true"><span class="octicon octicon-link"></span></a>Code Book</h2>
 
-<p>Source dataset <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</a>.</p>
+<p>For the provided UCI HAR Dataset the following vars are set from run_analysis.R.  See the <a href="/bpoweski/coursera-tidy-data/blob/master/README.md">README</a> for additional details.</p>
 
-<ul class="task-list">
-<li> You should create one R script called run_analysis.R that does the following.</li>
-<li> Merges the training and the test sets to create one data set.</li>
-<li> Extracts only the measurements on the mean and standard deviation for each measurement.</li>
-<li> Uses descriptive activity names to name the activities in the data set</li>
-<li> Appropriately labels the data set with descriptive activity names.</li>
-<li> Creates a second, independent tidy data set with the average of each variable for each activity and each subject.</li>
-</ul>
+<h3>
+<a id="user-content-tidy-mean" class="anchor" href="#tidy-mean" aria-hidden="true"><span class="octicon octicon-link"></span></a>Tidy Mean</h3>
 
-<h2>
-<a id="user-content-notes" class="anchor" href="#notes" aria-hidden="true"><span class="octicon octicon-link"></span></a>Notes</h2>
+<p>A data.table named <code>tidy.mean</code> is set with the following columns.  All units are maintained from the original data set. A file named tidy.mean.txt is written from run_analysis.R.</p>
 
-<ul class="task-list">
-<li> Only vaiables containing mean() &amp; std() are used.</li>
-<li> Requires the plyr &amp; reshape2 packages.</li>
-<li> Assumes the dataset is unzipped in the current directory.</li>
-</ul>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>description</th>
+<th>type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Subject</td>
+<td>Identifier of the subject</td>
+<td>integer</td>
+</tr>
+<tr>
+<td>Activity</td>
+<td>Label of the activity</td>
+<td>factor</td>
+</tr>
+<tr>
+<td>MeanSamples</td>
+<td>Mean of variables by Subject + Activity provided in tidy</td>
+<td>numeric</td>
+</tr>
+</tbody>
+</table>
 
-<p>Constructed using the following:</p>
+<h3>
+<a id="user-content-tidy" class="anchor" href="#tidy" aria-hidden="true"><span class="octicon octicon-link"></span></a>Tidy</h3>
 
-<div class="highlight highlight-R"><pre><span class="pl-k">&gt;</span> <span class="pl-vo">version</span>
-<span class="pl-vo">platform</span>       <span class="pl-vo">x86_64</span><span class="pl-k">-</span><span class="pl-vo">apple</span><span class="pl-k">-</span><span class="pl-vo">darwin12.4.0</span>
-<span class="pl-vo">arch</span>           <span class="pl-vo">x86_64</span>
-<span class="pl-vo">os</span>             <span class="pl-vo">darwin12.4.0</span>
-<span class="pl-vo">system</span>         <span class="pl-vo">x86_64</span>, <span class="pl-vo">darwin12.4.0</span>
-<span class="pl-vo">status</span>
-<span class="pl-vo">major</span>          <span class="pl-c1">3</span>
-<span class="pl-vo">minor</span>          <span class="pl-c1">0.1</span>
-<span class="pl-vo">year</span>           <span class="pl-c1">2013</span>
-<span class="pl-vo">month</span>          <span class="pl-c1">05</span>
-<span class="pl-vo">day</span>            <span class="pl-c1">16</span>
-<span class="pl-vo">svn</span> <span class="pl-vo">rev</span>        <span class="pl-c1">62743</span>
-<span class="pl-vo">language</span>       <span class="pl-vo">R</span>
-<span class="pl-vo">version.string</span> <span class="pl-vo">R</span> <span class="pl-vo">version</span> <span class="pl-c1">3.0.1</span> (<span class="pl-c1">2013</span><span class="pl-k">-</span><span class="pl-c1">05</span><span class="pl-k">-</span><span class="pl-c1">16</span>)
-<span class="pl-vo">nickname</span>       <span class="pl-vo">Good</span> <span class="pl-vo">Sport</span></pre></div>
+<p>A data.table named <code>tidy</code> is set with the following columns.  All units are maintained from the original data set. A file named tidy.txt is written from run_analysis.R.</p>
 
-<h2>
-<a id="user-content-running" class="anchor" href="#running" aria-hidden="true"><span class="octicon octicon-link"></span></a>Running</h2>
+<table>
+<thead>
+<tr>
+<th>Column</th>
+<th>Original Name</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Activity</td>
+<td></td>
+</tr>
+<tr>
+<td>Subject</td>
+<td></td>
+</tr>
+<tr>
+<td>Time.BodyAcc.Mean.X</td>
+<td>tBodyAcc-mean()-X</td>
+</tr>
+<tr>
+<td>Time.BodyAcc.Mean.Y</td>
+<td>tBodyAcc-mean()-Y</td>
+</tr>
+<tr>
+<td>Time.BodyAcc.Mean.Z</td>
+<td>tBodyAcc-mean()-Z</td>
+</tr>
+<tr>
+<td>Time.BodyAcc.Std.X</td>
+<td>tBodyAcc-std()-X</td>
+</tr>
+<tr>
+<td>Time.BodyAcc.Std.Y</td>
+<td>tBodyAcc-std()-Y</td>
+</tr>
+<tr>
+<td>Time.BodyAcc.Std.Z</td>
+<td>tBodyAcc-std()-Z</td>
+</tr>
+<tr>
+<td>Time.GravityAcc.Mean.X</td>
+<td>tGravityAcc-mean()-X</td>
+</tr>
+<tr>
+<td>Time.GravityAcc.Mean.Y</td>
+<td>tGravityAcc-mean()-Y</td>
+</tr>
+<tr>
+<td>Time.GravityAcc.Mean.Z</td>
+<td>tGravityAcc-mean()-Z</td>
+</tr>
+<tr>
+<td>Time.GravityAcc.Std.X</td>
+<td>tGravityAcc-std()-X</td>
+</tr>
+<tr>
+<td>Time.GravityAcc.Std.Y</td>
+<td>tGravityAcc-std()-Y</td>
+</tr>
+<tr>
+<td>Time.GravityAcc.Std.Z</td>
+<td>tGravityAcc-std()-Z</td>
+</tr>
+<tr>
+<td>Time.BodyAccJerk.Mean.X</td>
+<td>tBodyAccJerk-mean()-X</td>
+</tr>
+<tr>
+<td>Time.BodyAccJerk.Mean.Y</td>
+<td>tBodyAccJerk-mean()-Y</td>
+</tr>
+<tr>
+<td>Time.BodyAccJerk.Mean.Z</td>
+<td>tBodyAccJerk-mean()-Z</td>
+</tr>
+<tr>
+<td>Time.BodyAccJerk.Std.X</td>
+<td>tBodyAccJerk-std()-X</td>
+</tr>
+<tr>
+<td>Time.BodyAccJerk.Std.Y</td>
+<td>tBodyAccJerk-std()-Y</td>
+</tr>
+<tr>
+<td>Time.BodyAccJerk.Std.Z</td>
+<td>tBodyAccJerk-std()-Z</td>
+</tr>
+<tr>
+<td>Time.BodyGyro.Mean.X</td>
+<td>tBodyGyro-mean()-X</td>
+</tr>
+<tr>
+<td>Time.BodyGyro.Mean.Y</td>
+<td>tBodyGyro-mean()-Y</td>
+</tr>
+<tr>
+<td>Time.BodyGyro.Mean.Z</td>
+<td>tBodyGyro-mean()-Z</td>
+</tr>
+<tr>
+<td>Time.BodyGyro.Std.X</td>
+<td>tBodyGyro-std()-X</td>
+</tr>
+<tr>
+<td>Time.BodyGyro.Std.Y</td>
+<td>tBodyGyro-std()-Y</td>
+</tr>
+<tr>
+<td>Time.BodyGyro.Std.Z</td>
+<td>tBodyGyro-std()-Z</td>
+</tr>
+<tr>
+<td>Time.BodyGyroJerk.Mean.X</td>
+<td>tBodyGyroJerk-mean()-X</td>
+</tr>
+<tr>
+<td>Time.BodyGyroJerk.Mean.Y</td>
+<td>tBodyGyroJerk-mean()-Y</td>
+</tr>
+<tr>
+<td>Time.BodyGyroJerk.Mean.Z</td>
+<td>tBodyGyroJerk-mean()-Z</td>
+</tr>
+<tr>
+<td>Time.BodyGyroJerk.Std.X</td>
+<td>tBodyGyroJerk-std()-X</td>
+</tr>
+<tr>
+<td>Time.BodyGyroJerk.Std.Y</td>
+<td>tBodyGyroJerk-std()-Y</td>
+</tr>
+<tr>
+<td>Time.BodyGyroJerk.Std.Z</td>
+<td>tBodyGyroJerk-std()-Z</td>
+</tr>
+<tr>
+<td>Time.BodyAccMag.Mean</td>
+<td>tBodyAccMag-mean()</td>
+</tr>
+<tr>
+<td>Time.BodyAccMag.Std</td>
+<td>tBodyAccMag-std()</td>
+</tr>
+<tr>
+<td>Time.GravityAccMag.Mean</td>
+<td>tGravityAccMag-mean()</td>
+</tr>
+<tr>
+<td>Time.GravityAccMag.Std</td>
+<td>tGravityAccMag-std()</td>
+</tr>
+<tr>
+<td>Time.BodyAccJerkMag.Mean</td>
+<td>tBodyAccJerkMag-mean()</td>
+</tr>
+<tr>
+<td>Time.BodyAccJerkMag.Std</td>
+<td>tBodyAccJerkMag-std()</td>
+</tr>
+<tr>
+<td>Time.BodyGyroMag.Mean</td>
+<td>tBodyGyroMag-mean()</td>
+</tr>
+<tr>
+<td>Time.BodyGyroMag.Std</td>
+<td>tBodyGyroMag-std()</td>
+</tr>
+<tr>
+<td>Time.BodyGyroJerkMag.Mean</td>
+<td>tBodyGyroJerkMag-mean()</td>
+</tr>
+<tr>
+<td>Time.BodyGyroJerkMag.Std</td>
+<td>tBodyGyroJerkMag-std()</td>
+</tr>
+<tr>
+<td>FFT.BodyAcc.Mean.X</td>
+<td>fBodyAcc-mean()-X</td>
+</tr>
+<tr>
+<td>FFT.BodyAcc.Mean.Y</td>
+<td>fBodyAcc-mean()-Y</td>
+</tr>
+<tr>
+<td>FFT.BodyAcc.Mean.Z</td>
+<td>fBodyAcc-mean()-Z</td>
+</tr>
+<tr>
+<td>FFT.BodyAcc.Std.X</td>
+<td>fBodyAcc-std()-X</td>
+</tr>
+<tr>
+<td>FFT.BodyAcc.Std.Y</td>
+<td>fBodyAcc-std()-Y</td>
+</tr>
+<tr>
+<td>FFT.BodyAcc.Std.Z</td>
+<td>fBodyAcc-std()-Z</td>
+</tr>
+<tr>
+<td>FFT.BodyAccJerk.Mean.X</td>
+<td>fBodyAccJerk-mean()-X</td>
+</tr>
+<tr>
+<td>FFT.BodyAccJerk.Mean.Y</td>
+<td>fBodyAccJerk-mean()-Y</td>
+</tr>
+<tr>
+<td>FFT.BodyAccJerk.Mean.Z</td>
+<td>fBodyAccJerk-mean()-Z</td>
+</tr>
+<tr>
+<td>FFT.BodyAccJerk.Std.X</td>
+<td>fBodyAccJerk-std()-X</td>
+</tr>
+<tr>
+<td>FFT.BodyAccJerk.Std.Y</td>
+<td>fBodyAccJerk-std()-Y</td>
+</tr>
+<tr>
+<td>FFT.BodyAccJerk.Std.Z</td>
+<td>fBodyAccJerk-std()-Z</td>
+</tr>
+<tr>
+<td>FFT.BodyGyro.Mean.X</td>
+<td>fBodyGyro-mean()-X</td>
+</tr>
+<tr>
+<td>FFT.BodyGyro.Mean.Y</td>
+<td>fBodyGyro-mean()-Y</td>
+</tr>
+<tr>
+<td>FFT.BodyGyro.Mean.Z</td>
+<td>fBodyGyro-mean()-Z</td>
+</tr>
+<tr>
+<td>FFT.BodyGyro.Std.X</td>
+<td>fBodyGyro-std()-X</td>
+</tr>
+<tr>
+<td>FFT.BodyGyro.Std.Y</td>
+<td>fBodyGyro-std()-Y</td>
+</tr>
+<tr>
+<td>FFT.BodyGyro.Std.Z</td>
+<td>fBodyGyro-std()-Z</td>
+</tr>
+<tr>
+<td>FFT.BodyAccMag.Mean</td>
+<td>fBodyAccMag-mean()</td>
+</tr>
+<tr>
+<td>FFT.BodyAccMag.Std</td>
+<td>fBodyAccMag-std()</td>
+</tr>
+<tr>
+<td>FFT.BodyBodyAccJerkMag.Mean</td>
+<td>fBodyBodyAccJerkMag-mean()</td>
+</tr>
+<tr>
+<td>FFT.BodyBodyAccJerkMag.Std</td>
+<td>fBodyBodyAccJerkMag-std()</td>
+</tr>
+<tr>
+<td>FFT.BodyBodyGyroMag.Mean</td>
+<td>fBodyBodyGyroMag-mean()</td>
+</tr>
+<tr>
+<td>FFT.BodyBodyGyroMag.Std</td>
+<td>fBodyBodyGyroMag-std()</td>
+</tr>
+<tr>
+<td>FFT.BodyBodyGyroJerkMag.Mean</td>
+<td>fBodyBodyGyroJerkMag-mean()</td>
+</tr>
+<tr>
+<td>FFT.BodyBodyGyroJerkMag.Std</td>
+<td>fBodyBodyGyroJerkMag-std()</td>
+</tr>
+</tbody>
+</table>
 
-<div class="highlight highlight-bash"><pre>$ Rscript run_analysis.R</pre></div>
+<h3>
+<a id="user-content-notes" class="anchor" href="#notes" aria-hidden="true"><span class="octicon octicon-link"></span></a>Notes</h3>
 
-<p>Yields tidy.txt &amp; tidy.mean.txt.</p>
+<p>Source data is from <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</a>.</p>
 </article>
   </div>
 
@@ -717,7 +999,7 @@ Email verification helps our support team verify ownership if you lose account a
     </a>
 
     <ul class="site-footer-links">
-      <li>&copy; 2015 <span title="0.04212s from github-fe137-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2015 <span title="0.05692s from github-fe133-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="/site/terms">Terms</a></li>
         <li><a href="/site/privacy">Privacy</a></li>
         <li><a href="/security">Security</a></li>
