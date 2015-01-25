@@ -64,7 +64,7 @@
 <a id="user-content-how-run_analysisr-implements-the-above-steps" class="anchor" href="#how-run_analysisr-implements-the-above-steps" aria-hidden="true"><span class="octicon octicon-link"></span></a>How <code>run_analysis.R</code> implements the above steps:</h2>
 
 <ul class="task-list">
-<li>Require <code>reshapre2</code> and <code>data.table</code> librareis.</li>
+<li>Require <code>reshape2</code> and <code>data.table</code> librareis.</li>
 <li>Load both test and train data</li>
 <li>Load the features and activity labels.</li>
 <li>Extract the mean and standard deviation column names and data.</li>
